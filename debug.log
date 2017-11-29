@@ -1,0 +1,236 @@
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Hexo version: \u001b[35m3.4.2\u001b[39m","time":"2017-11-29T01:42:40.145Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Working directory: \u001b[35mE:\\workspace\\hexo\\blog\\\u001b[39m","time":"2017-11-29T01:42:40.151Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Config loaded: \u001b[35mE:\\workspace\\hexo\\blog\\_config.yml\u001b[39m","time":"2017-11-29T01:42:40.334Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-11-29T01:42:40.353Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-11-29T01:42:40.359Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-11-29T01:42:40.364Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-11-29T01:42:40.368Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-11-29T01:42:40.374Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-11-29T01:42:40.378Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-11-29T01:42:40.388Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-11-29T01:42:40.512Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Script loaded: \u001b[35mthemes\\next\\scripts\\merge-configs.js\u001b[39m","time":"2017-11-29T01:42:40.525Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Script loaded: \u001b[35mthemes\\next\\scripts\\tags\\button.js\u001b[39m","time":"2017-11-29T01:42:40.528Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Script loaded: \u001b[35mthemes\\next\\scripts\\tags\\center-quote.js\u001b[39m","time":"2017-11-29T01:42:40.530Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Script loaded: \u001b[35mthemes\\next\\scripts\\tags\\exturl.js\u001b[39m","time":"2017-11-29T01:42:40.533Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Script loaded: \u001b[35mthemes\\next\\scripts\\tags\\full-image.js\u001b[39m","time":"2017-11-29T01:42:40.535Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Script loaded: \u001b[35mthemes\\next\\scripts\\tags\\group-pictures.js\u001b[39m","time":"2017-11-29T01:42:40.538Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Script loaded: \u001b[35mthemes\\next\\scripts\\tags\\label.js\u001b[39m","time":"2017-11-29T01:42:40.540Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Script loaded: \u001b[35mthemes\\next\\scripts\\tags\\lazy-image.js\u001b[39m","time":"2017-11-29T01:42:40.542Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Script loaded: \u001b[35mthemes\\next\\scripts\\tags\\note.js\u001b[39m","time":"2017-11-29T01:42:40.544Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Script loaded: \u001b[35mthemes\\next\\scripts\\merge.js\u001b[39m","time":"2017-11-29T01:42:40.549Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Script loaded: \u001b[35mthemes\\next\\scripts\\tags\\tabs.js\u001b[39m","time":"2017-11-29T01:42:40.552Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Loading database.","time":"2017-11-29T01:42:40.563Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":30,"msg":"Start processing","time":"2017-11-29T01:42:40.664Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2017-11-29T01:42:40.876Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/css/main.styl\u001b[39m","time":"2017-11-29T01:42:40.990Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/algolia_logo.svg\u001b[39m","time":"2017-11-29T01:42:40.992Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/apple-touch-icon-next.png\u001b[39m","time":"2017-11-29T01:42:40.994Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/avatar.gif\u001b[39m","time":"2017-11-29T01:42:40.996Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc-nd.svg\u001b[39m","time":"2017-11-29T01:42:40.998Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc-sa.svg\u001b[39m","time":"2017-11-29T01:42:41.000Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc.svg\u001b[39m","time":"2017-11-29T01:42:41.002Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nd.svg\u001b[39m","time":"2017-11-29T01:42:41.004Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-sa.svg\u001b[39m","time":"2017-11-29T01:42:41.007Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by.svg\u001b[39m","time":"2017-11-29T01:42:41.010Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/cc-zero.svg\u001b[39m","time":"2017-11-29T01:42:41.013Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/favicon-16x16-next.png\u001b[39m","time":"2017-11-29T01:42:41.017Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/favicon-32x32-next.png\u001b[39m","time":"2017-11-29T01:42:41.020Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/loading.gif\u001b[39m","time":"2017-11-29T01:42:41.022Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/logo.svg\u001b[39m","time":"2017-11-29T01:42:41.023Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/placeholder.gif\u001b[39m","time":"2017-11-29T01:42:41.025Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/quote-l.svg\u001b[39m","time":"2017-11-29T01:42:41.027Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/quote-r.svg\u001b[39m","time":"2017-11-29T01:42:41.029Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/images/searchicon.png\u001b[39m","time":"2017-11-29T01:42:41.031Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Theme config loaded.","time":"2017-11-29T01:42:41.071Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2017-11-29T01:42:41.073Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_layout.swig\u001b[39m","time":"2017-11-29T01:42:41.428Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/archive.swig\u001b[39m","time":"2017-11-29T01:42:41.430Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/category.swig\u001b[39m","time":"2017-11-29T01:42:41.432Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/index.swig\u001b[39m","time":"2017-11-29T01:42:41.434Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/page.swig\u001b[39m","time":"2017-11-29T01:42:41.436Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/post.swig\u001b[39m","time":"2017-11-29T01:42:41.438Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/schedule.swig\u001b[39m","time":"2017-11-29T01:42:41.439Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/tag.swig\u001b[39m","time":"2017-11-29T01:42:41.441Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/de.yml\u001b[39m","time":"2017-11-29T01:42:41.464Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/default.yml\u001b[39m","time":"2017-11-29T01:42:41.467Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/en.yml\u001b[39m","time":"2017-11-29T01:42:41.469Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/fr-FR.yml\u001b[39m","time":"2017-11-29T01:42:41.470Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/id.yml\u001b[39m","time":"2017-11-29T01:42:41.472Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/it.yml\u001b[39m","time":"2017-11-29T01:42:41.474Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/ja.yml\u001b[39m","time":"2017-11-29T01:42:41.475Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/ko.yml\u001b[39m","time":"2017-11-29T01:42:41.477Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/nl-NL.yml\u001b[39m","time":"2017-11-29T01:42:41.478Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/pt-BR.yml\u001b[39m","time":"2017-11-29T01:42:41.480Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/pt.yml\u001b[39m","time":"2017-11-29T01:42:41.482Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/ru.yml\u001b[39m","time":"2017-11-29T01:42:41.483Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-Hans.yml\u001b[39m","time":"2017-11-29T01:42:41.485Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-hk.yml\u001b[39m","time":"2017-11-29T01:42:41.487Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-tw.yml\u001b[39m","time":"2017-11-29T01:42:41.488Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/js/src/affix.js\u001b[39m","time":"2017-11-29T01:42:41.491Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/js/src/algolia-search.js\u001b[39m","time":"2017-11-29T01:42:41.493Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/js/src/bootstrap.js\u001b[39m","time":"2017-11-29T01:42:41.494Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/js/src/exturl.js\u001b[39m","time":"2017-11-29T01:42:41.496Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/js/src/hook-duoshuo.js\u001b[39m","time":"2017-11-29T01:42:41.498Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/js/src/js.cookie.js\u001b[39m","time":"2017-11-29T01:42:41.500Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/js/src/motion.js\u001b[39m","time":"2017-11-29T01:42:41.502Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/js/src/post-details.js\u001b[39m","time":"2017-11-29T01:42:41.504Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/js/src/scroll-cookie.js\u001b[39m","time":"2017-11-29T01:42:41.505Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/js/src/scrollspy.js\u001b[39m","time":"2017-11-29T01:42:41.507Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/js/src/utils.js\u001b[39m","time":"2017-11-29T01:42:41.509Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/algolia-instant-search/instantsearch.min.css\u001b[39m","time":"2017-11-29T01:42:41.511Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/canvas-nest/canvas-nest.min.js\u001b[39m","time":"2017-11-29T01:42:41.513Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/canvas-ribbon/canvas-ribbon.js\u001b[39m","time":"2017-11-29T01:42:41.515Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/LICENSE\u001b[39m","time":"2017-11-29T01:42:41.517Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/README.md\u001b[39m","time":"2017-11-29T01:42:41.519Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/bower.json\u001b[39m","time":"2017-11-29T01:42:41.520Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/HELP-US-OUT.txt\u001b[39m","time":"2017-11-29T01:42:41.521Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/bower.json\u001b[39m","time":"2017-11-29T01:42:41.523Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/CONTRIBUTING.md\u001b[39m","time":"2017-11-29T01:42:41.524Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/README.md\u001b[39m","time":"2017-11-29T01:42:41.525Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/bower.json\u001b[39m","time":"2017-11-29T01:42:41.527Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/jquery.lazyload.js\u001b[39m","time":"2017-11-29T01:42:41.529Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/jquery.scrollstop.js\u001b[39m","time":"2017-11-29T01:42:41.531Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/needsharebutton/font-embedded.css\u001b[39m","time":"2017-11-29T01:42:41.533Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/needsharebutton/needsharebutton.css\u001b[39m","time":"2017-11-29T01:42:41.535Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/needsharebutton/needsharebutton.js\u001b[39m","time":"2017-11-29T01:42:41.537Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-barber-shop.min.css\u001b[39m","time":"2017-11-29T01:42:41.540Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-big-counter.min.css\u001b[39m","time":"2017-11-29T01:42:41.541Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-bounce.min.css\u001b[39m","time":"2017-11-29T01:42:41.543Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-atom.min.css\u001b[39m","time":"2017-11-29T01:42:41.545Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-circle.min.css\u001b[39m","time":"2017-11-29T01:42:41.547Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-radar.min.css\u001b[39m","time":"2017-11-29T01:42:41.549Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-simple.min.css\u001b[39m","time":"2017-11-29T01:42:41.551Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-corner-indicator.min.css\u001b[39m","time":"2017-11-29T01:42:41.552Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-fill-left.min.css\u001b[39m","time":"2017-11-29T01:42:41.554Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-flash.min.css\u001b[39m","time":"2017-11-29T01:42:41.556Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-loading-bar.min.css\u001b[39m","time":"2017-11-29T01:42:41.558Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-mac-osx.min.css\u001b[39m","time":"2017-11-29T01:42:41.560Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-minimal.min.css\u001b[39m","time":"2017-11-29T01:42:41.562Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace.min.js\u001b[39m","time":"2017-11-29T01:42:41.564Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/three/canvas_lines.min.js\u001b[39m","time":"2017-11-29T01:42:41.565Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/three/canvas_sphere.min.js\u001b[39m","time":"2017-11-29T01:42:41.567Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/three/three-waves.min.js\u001b[39m","time":"2017-11-29T01:42:41.569Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/bower.json\u001b[39m","time":"2017-11-29T01:42:41.571Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.min.js\u001b[39m","time":"2017-11-29T01:42:41.573Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.ui.js\u001b[39m","time":"2017-11-29T01:42:41.575Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.ui.min.js\u001b[39m","time":"2017-11-29T01:42:41.577Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery/index.js\u001b[39m","time":"2017-11-29T01:42:41.600Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_custom/header.swig\u001b[39m","time":"2017-11-29T01:42:41.737Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_custom/sidebar.swig\u001b[39m","time":"2017-11-29T01:42:41.741Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post-copyright.swig\u001b[39m","time":"2017-11-29T01:42:41.744Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post-collapse.swig\u001b[39m","time":"2017-11-29T01:42:41.746Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/reward.swig\u001b[39m","time":"2017-11-29T01:42:41.749Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/sidebar.swig\u001b[39m","time":"2017-11-29T01:42:41.752Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post.swig\u001b[39m","time":"2017-11-29T01:42:41.755Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/wechat-subscriber.swig\u001b[39m","time":"2017-11-29T01:42:41.758Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/comments.swig\u001b[39m","time":"2017-11-29T01:42:41.761Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/footer.swig\u001b[39m","time":"2017-11-29T01:42:41.764Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head.swig\u001b[39m","time":"2017-11-29T01:42:41.767Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/header.swig\u001b[39m","time":"2017-11-29T01:42:41.770Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/page-header.swig\u001b[39m","time":"2017-11-29T01:42:41.772Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search.swig\u001b[39m","time":"2017-11-29T01:42:41.775Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/pagination.swig\u001b[39m","time":"2017-11-29T01:42:41.778Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/boostrap.swig\u001b[39m","time":"2017-11-29T01:42:41.782Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/commons.swig\u001b[39m","time":"2017-11-29T01:42:41.785Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/vendors.swig\u001b[39m","time":"2017-11-29T01:42:41.788Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/duoshuo-hot-articles.swig\u001b[39m","time":"2017-11-29T01:42:41.791Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/exturl.swig\u001b[39m","time":"2017-11-29T01:42:41.794Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/mathjax.swig\u001b[39m","time":"2017-11-29T01:42:41.798Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/needsharebutton.swig\u001b[39m","time":"2017-11-29T01:42:41.801Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/rating.swig\u001b[39m","time":"2017-11-29T01:42:41.804Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/schedule.swig\u001b[39m","time":"2017-11-29T01:42:41.807Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/scroll-cookie.swig\u001b[39m","time":"2017-11-29T01:42:41.810Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/js/src/schemes/pisces.js\u001b[39m","time":"2017-11-29T01:42:41.825Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.css\u001b[39m","time":"2017-11-29T01:42:41.827Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.min.css\u001b[39m","time":"2017-11-29T01:42:41.830Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.min.js\u001b[39m","time":"2017-11-29T01:42:41.831Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/blank.gif\u001b[39m","time":"2017-11-29T01:42:41.833Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_loading.gif\u001b[39m","time":"2017-11-29T01:42:41.835Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_loading@2x.gif\u001b[39m","time":"2017-11-29T01:42:41.837Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_overlay.png\u001b[39m","time":"2017-11-29T01:42:41.839Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_sprite.png\u001b[39m","time":"2017-11-29T01:42:41.841Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_sprite@2x.png\u001b[39m","time":"2017-11-29T01:42:41.843Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/jquery.fancybox.css\u001b[39m","time":"2017-11-29T01:42:41.845Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/jquery.fancybox.js\u001b[39m","time":"2017-11-29T01:42:41.847Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/jquery.fancybox.pack.js\u001b[39m","time":"2017-11-29T01:42:41.848Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/lib/fastclick.js\u001b[39m","time":"2017-11-29T01:42:41.850Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/lib/fastclick.min.js\u001b[39m","time":"2017-11-29T01:42:41.852Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/css/font-awesome.css\u001b[39m","time":"2017-11-29T01:42:41.854Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/css/font-awesome.css.map\u001b[39m","time":"2017-11-29T01:42:41.856Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/css/font-awesome.min.css\u001b[39m","time":"2017-11-29T01:42:41.858Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/ua-parser-js/dist/ua-parser.min.js\u001b[39m","time":"2017-11-29T01:42:41.859Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/ua-parser-js/dist/ua-parser.pack.js\u001b[39m","time":"2017-11-29T01:42:41.861Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/mist.swig\u001b[39m","time":"2017-11-29T01:42:41.871Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/muse.swig\u001b[39m","time":"2017-11-29T01:42:41.873Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.js\u001b[39m","time":"2017-11-29T01:42:41.875Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.woff\u001b[39m","time":"2017-11-29T01:42:41.877Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.woff2\u001b[39m","time":"2017-11-29T01:42:41.879Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.js\u001b[39m","time":"2017-11-29T01:42:41.881Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head/custom-head.swig\u001b[39m","time":"2017-11-29T01:42:41.947Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head/external-fonts.swig\u001b[39m","time":"2017-11-29T01:42:41.949Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/localsearch.swig\u001b[39m","time":"2017-11-29T01:42:41.950Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/swiftype.swig\u001b[39m","time":"2017-11-29T01:42:41.951Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/tinysou.swig\u001b[39m","time":"2017-11-29T01:42:41.952Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/add-this.swig\u001b[39m","time":"2017-11-29T01:42:41.953Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/baidushare.swig\u001b[39m","time":"2017-11-29T01:42:41.954Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/duoshuo_share.swig\u001b[39m","time":"2017-11-29T01:42:41.956Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/jiathis.swig\u001b[39m","time":"2017-11-29T01:42:41.957Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/pages/post-details.swig\u001b[39m","time":"2017-11-29T01:42:41.958Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/gemini.swig\u001b[39m","time":"2017-11-29T01:42:41.959Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/pisces.swig\u001b[39m","time":"2017-11-29T01:42:41.960Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/application-insights.swig\u001b[39m","time":"2017-11-29T01:42:41.962Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/analytics-with-widget.swig\u001b[39m","time":"2017-11-29T01:42:41.963Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/baidu-analytics.swig\u001b[39m","time":"2017-11-29T01:42:41.964Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/cnzz-analytics.swig\u001b[39m","time":"2017-11-29T01:42:41.965Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/facebook-sdk.swig\u001b[39m","time":"2017-11-29T01:42:41.966Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/firestore.swig\u001b[39m","time":"2017-11-29T01:42:41.968Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/google-analytics.swig\u001b[39m","time":"2017-11-29T01:42:41.969Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/index.swig\u001b[39m","time":"2017-11-29T01:42:41.970Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/lean-analytics.swig\u001b[39m","time":"2017-11-29T01:42:41.971Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/tencent-analytics.swig\u001b[39m","time":"2017-11-29T01:42:41.973Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/tencent-mta.swig\u001b[39m","time":"2017-11-29T01:42:41.974Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/vkontakte-api.swig\u001b[39m","time":"2017-11-29T01:42:41.976Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/changyan.swig\u001b[39m","time":"2017-11-29T01:42:41.977Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/disqus.swig\u001b[39m","time":"2017-11-29T01:42:41.979Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/duoshuo.swig\u001b[39m","time":"2017-11-29T01:42:41.980Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/hypercomments.swig\u001b[39m","time":"2017-11-29T01:42:41.981Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/gitment.swig\u001b[39m","time":"2017-11-29T01:42:41.982Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/index.swig\u001b[39m","time":"2017-11-29T01:42:41.984Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/valine.swig\u001b[39m","time":"2017-11-29T01:42:41.985Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/livere.swig\u001b[39m","time":"2017-11-29T01:42:41.986Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/youyan.swig\u001b[39m","time":"2017-11-29T01:42:41.987Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/index.swig\u001b[39m","time":"2017-11-29T01:42:41.988Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/localsearch.swig\u001b[39m","time":"2017-11-29T01:42:41.990Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/busuanzi-counter.swig\u001b[39m","time":"2017-11-29T01:42:41.991Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/seo/baidu-push.swig\u001b[39m","time":"2017-11-29T01:42:41.992Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/tinysou.swig\u001b[39m","time":"2017-11-29T01:42:41.993Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han-space.otf\u001b[39m","time":"2017-11-29T01:42:42.003Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han-space.woff\u001b[39m","time":"2017-11-29T01:42:42.007Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han.otf\u001b[39m","time":"2017-11-29T01:42:42.009Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han.woff\u001b[39m","time":"2017-11-29T01:42:42.011Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han.woff2\u001b[39m","time":"2017-11-29T01:42:42.013Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/fancybox_buttons.png\u001b[39m","time":"2017-11-29T01:42:42.015Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-buttons.css\u001b[39m","time":"2017-11-29T01:42:42.018Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-buttons.js\u001b[39m","time":"2017-11-29T01:42:42.020Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-media.js\u001b[39m","time":"2017-11-29T01:42:42.022Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css\u001b[39m","time":"2017-11-29T01:42:42.023Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js\u001b[39m","time":"2017-11-29T01:42:42.025Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/FontAwesome.otf\u001b[39m","time":"2017-11-29T01:42:42.027Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.eot\u001b[39m","time":"2017-11-29T01:42:42.029Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.ttf\u001b[39m","time":"2017-11-29T01:42:42.031Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/algolia-search/dom.swig\u001b[39m","time":"2017-11-29T01:42:42.041Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/algolia-search/assets.swig\u001b[39m","time":"2017-11-29T01:42:42.044Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/algolia-instant-search/instantsearch.min.js\u001b[39m","time":"2017-11-29T01:42:42.046Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/three/three.min.js\u001b[39m","time":"2017-11-29T01:42:42.049Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.svg\u001b[39m","time":"2017-11-29T01:42:42.051Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2017-11-29T01:42:42.436Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2017-11-29T01:42:42.437Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2017-11-29T01:42:42.439Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2017-11-29T01:42:42.440Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2017-11-29T01:42:42.441Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2017-11-29T01:42:42.442Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2017-11-29T01:42:42.447Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/\u001b[24m. Press Ctrl+C to stop.","time":"2017-11-29T01:42:42.460Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Database saved","time":"2017-11-29T01:42:42.533Z","v":0}
+{"name":"hexo","hostname":"Assassin-PC","pid":8160,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2017-11-29T01:42:59.759Z","v":0}
